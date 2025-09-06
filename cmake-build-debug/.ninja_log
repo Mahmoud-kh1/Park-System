@@ -1,0 +1,11 @@
+# ninja log v5
+45	588	7788518436847523	CMakeFiles/parking_lot.dir/src/exceptions.cpp.obj	85acc2c8e0cac90d
+7	604	7788518437027517	CMakeFiles/parking_lot.dir/src/vehicle.cpp.obj	26867120eeca81e2
+18	606	7788518436997528	CMakeFiles/parking_lot.dir/src/truck.cpp.obj	eac283e2b868bc41
+29	607	7788518437027517	CMakeFiles/parking_lot.dir/src/motorcycle.cpp.obj	f96efaa23097ec0e
+23	608	7788518437027517	CMakeFiles/parking_lot.dir/src/car.cpp.obj	1aba07a26bc18783
+35	629	7788518437344247	CMakeFiles/parking_lot.dir/src/ticket.cpp.obj	c1505fcd342802ad
+13	643	7788518437482618	CMakeFiles/parking_lot.dir/src/parkingspot.cpp.obj	36b81674d697b443
+0	964	7788518440698915	CMakeFiles/parking_lot.dir/src/main.cpp.obj	c3caacef84144814
+40	1135	7788518442400093	CMakeFiles/parking_lot.dir/src/parkinglot.cpp.obj	d2de3a4161b1fd83
+1136	1389	7788518444918005	parking_lot.exe	b504f926b397ed3f
